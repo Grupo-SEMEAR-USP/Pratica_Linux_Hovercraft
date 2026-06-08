@@ -1,0 +1,6 @@
+[INFO] Iniciando leitura dos sensores.
+[INFO] Sensor ultrassom detectado.
+[INFO] Sensor IMU detectado.
+[AVISO] Pequena variação na leitura da IMU.
+[ERRO] Falha de calibração no sensor IMU.
+[INFO] Leitura dos sensores finalizada.
