@@ -1,4 +1,4 @@
-# Prática de Linux e Git — Projeto Hovercraft
+# Projeto Hovercraft
 
 ## Introdução
 
