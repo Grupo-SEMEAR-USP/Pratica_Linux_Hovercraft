@@ -1,0 +1,4 @@
+Anotações iniciais do projeto
+
+O hovercraft ainda está em fase de testes.
+Os arquivos do projeto precisam ser organizados antes da próxima etapa.
