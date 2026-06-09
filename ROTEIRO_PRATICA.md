@@ -11,25 +11,25 @@ Para isso, vamos usar o que vimos no treinamento de Git e Linux. Vocês vão clo
 
 ## 1. Clonando o repositório e criando a branch
 
-Para começar, utilizem os conhecimentos do treinamento de Git para clonar este repositório público no computador de vocês.
+Nessa primeira parte, o objetivo é usar o que vimos no treinamento de Git.
 
-Depois de clonar, cada aluno deve criar uma branch própria para resolver a prática.
+Vocês devem fazer o seguinte:
 
-O nome da branch deve seguir o formato:
+Clonar o repositório público da prática no computador de vocês.
+
+Entrar na pasta do repositório usando o terminal.
+
+Criar uma branch com seu nome no formato:
 
 ```txt
 nome_sobrenome
 ```
 
-Exemplo:
+Conferir se você realmente está dentro da sua branch antes de começar a modificar os arquivos.
 
-```txt
-bia_matias
-```
+Essa branch será usada para resolver toda a prática e também fará parte da entrega final.
 
-Essa branch será uma das entregas da prática.
-
-Dicas de comandos que podem ajudar:
+Comandos que podem ajudar:
 
 ```bash
 git clone
@@ -39,7 +39,6 @@ git checkout -b
 git status
 ```
 
----
 
 ## 2. Organização do projeto
 
