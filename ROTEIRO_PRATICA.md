@@ -255,6 +255,5 @@ git commit                      # cria um commit com as alterações
 git push                        # envia a branch para o GitHub
 ```
 
---
 Boa prática!
 
