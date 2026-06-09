@@ -118,6 +118,7 @@ Dicas de comandos que podem ajudar:
 cat
 head
 grep "  "
+touch
 nano
 echo "  "  >
 ```
