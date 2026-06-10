@@ -1,0 +1,9 @@
+Verificando arquivos do hovercraft...
+
+Pasta de sensores não encontrada.
+Pasta de motores não encontrada.
+Pasta de scripts não encontrada.
+
+Buscando erros nos logs...
+
+Diagnóstico concluído.
